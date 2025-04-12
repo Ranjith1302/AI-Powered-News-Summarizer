@@ -109,15 +109,6 @@ scheduler.start()
 
 ---
 
-## 🖥️ Frontend
-
-Your Django frontend includes:
-- Responsive UI with Bootstrap
-- News cards with title, AI summary, and image
-- Links to full articles
-- Admin panel for managing articles
-
----
 
 ## ☁️ Deployment
 
@@ -139,9 +130,5 @@ Make sure:
 
 ---
 
-## 🤝 Contributions
 
-PRs are welcome! If you find bugs or want to improve the UI/UX or API integration, feel free to open an issue.
-
----
 
