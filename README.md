@@ -15,7 +15,8 @@ An intelligent, auto-updating news aggregator built with **Django**, **Google Ge
 
 ## 📸 Demo
 
-![screenshot](https://via.placeholder.com/1000x600)  
+![image](https://github.com/user-attachments/assets/587d1f5b-f16a-4cd8-8c88-2e8d80fc6a99)
+
 _(Replace this with your actual deployment screenshot)_
 
 ---
@@ -134,7 +135,6 @@ Make sure:
 
 ---
 
-![image](https://github.com/user-attachments/assets/587d1f5b-f16a-4cd8-8c88-2e8d80fc6a99)
 
 
 ---
