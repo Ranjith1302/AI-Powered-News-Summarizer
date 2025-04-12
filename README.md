@@ -1,6 +1,3 @@
-Great! Here's a complete `README.md` file for your **AI News Generator** Django project, including setup, requirements, deployment, and project overview:
-
----
 
 # 📰 AI News Generator 🧠🌐
 
